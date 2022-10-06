@@ -1,0 +1,24 @@
+
+The core Protocol Buffers technology is provided by Google under BSD license.
+Details can be found here:
+
+http://code.google.com/p/protobuf/
+
+
+The .NET implementation of Protocol Buffers is Copyright 2008 Marc Gravell
+and is released under Apache License, Version 2.0.
+The license text can be found here:
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Details about the .NET implamentation of Protocol Buffers can be found here:
+
+https://code.google.com/p/protobuf-net/
+
+
+
+Eneter ProtoBuf Serializer is Copyright Ondrej Uzovic and released under BSD 3 license.
+Details can be found here:
+
+https://code.google.com/p/eneter-protobuf-serializer/
+
